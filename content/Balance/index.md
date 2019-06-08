@@ -1,7 +1,7 @@
 ---
 title: "Balance"
 description: "Regardless of what age, there should be a balance between the choices you make"
-date: "2019-06-08T17:32:57.143Z"
+date: "2019-06-08"
 categories:
   - work
   - mindset
@@ -13,4 +13,3 @@ canonical_link: https://jsj14.withknown.com/2019/there-should-be-balance-between
 
  Each and every person has his own hobbies, favourite passtimes and desires. She/he also has the share of responsibilities of work, household chores etc. which might not always be what one wanted to do in the first place. Else everyone would be an AI scientist who writes novels on Sundays and plays Cricket every Friday for his Country!
 
- 
