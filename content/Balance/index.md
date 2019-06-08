@@ -1,7 +1,7 @@
 ---
 title: "Balance"
 description: "Regardless of what age, there should be a balance between the choices you make"
-date: "2019-06-08"
+date: "2019-06-06T17:32:57.143Z"
 categories:
   - work
   - mindset

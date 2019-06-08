@@ -1,7 +1,7 @@
 ---
 title: "Fractaversary"
 description: "3 years ago on this day, I landed in this City, Mumbai. As soon as I did, I received a call from my interviewer, "
-date: "2019-06-08T17:32:57.143Z"
+date: "2019-06-07T17:32:57.143Z"
 categories:
   - anniversaries
   - life

@@ -1,7 +1,7 @@
 ---
 title: "Just kidding"
-description: "Have you ever heard your colleagues say "Just Kidding" in the middle of serious meetings and discussions in 1:1(s)... "
-date: "2019-06-08"
+description: "Have you ever heard your colleagues say "Just Kidding" in the middle of serious meetings and discussions in 1:1(s) "
+date: "2019-06-08T17:32:57.143Z"
 categories:
   - work
   - mindset
