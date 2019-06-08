@@ -1,8 +1,11 @@
 title: "git prune"
-description: "/* The dungeons of data which lie in the long-forgotten are the places that one could fall back on at times of adversity. But it never made…"
+description: "git commands"
 date: "2019-06-08T17:32:57.143Z"
-categories: [git]
+categories:
+  - git
+  - misnomers
 published: true
+canonical_link: https://jsj14.withknown.com/2019/git-prune
 ---
 Read slowly
 
