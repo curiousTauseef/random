@@ -1,8 +1,8 @@
 ---
 title: "Cached and forgotten"
 description: "/* The dungeons of data which lie in the long-forgotten are the places that one could fall back on at times of adversity. But it never made…"
-date: "2019-06-05T17:32:57.143Z"
-categories: []
+date: 
+categories:
 published: false
 ---
 
