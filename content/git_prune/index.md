@@ -1,3 +1,4 @@
+---
 title: "git prune"
 description: "git commands"
 date: "2019-06-08T17:32:57.143Z"
